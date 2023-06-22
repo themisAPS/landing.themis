@@ -37,7 +37,9 @@
     font-size: 2.6em;
     margin-top: 100px;
     margin-bottom: 50px;
-    text-decoration-color: rgba(99, 140, 130, 0.582)
+    width: 400 px; 
+    text-shadow: rgba(99, 140, 130, 0.582);
+    
    ;
 }
 
